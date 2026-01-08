@@ -1,8 +1,9 @@
+from contextlib import contextmanager
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
-from sqlalchemy.util.compat import contextmanager
 
-DATABASE_URL = "postgresql://user:password@database:5432/alpha"
+DATABASE_URL = "postgresql://postgres:secret@database:5432/postgres"
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(bind=engine)

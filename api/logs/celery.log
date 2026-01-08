@@ -1,0 +1,38 @@
+[2026-01-08 16:26:07,801: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 16:26:07,805: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 16:26:08,818: INFO/MainProcess] mingle: all alone
+[2026-01-08 16:26:08,852: INFO/MainProcess] celery@75449c9d5f51 ready.
+[2026-01-08 16:33:08,383: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 16:33:08,389: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 16:33:09,401: INFO/MainProcess] mingle: all alone
+[2026-01-08 16:33:09,440: INFO/MainProcess] celery@d67534cea150 ready.
+[2026-01-08 17:29:07,239: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 17:29:07,243: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 17:29:08,256: INFO/MainProcess] mingle: all alone
+[2026-01-08 17:29:08,310: INFO/MainProcess] celery@cdd1d9faddd9 ready.
+[2026-01-08 17:30:21,513: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 17:30:21,520: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 17:30:22,537: INFO/MainProcess] mingle: all alone
+[2026-01-08 17:30:22,573: INFO/MainProcess] celery@5a1e631871aa ready.
+[2026-01-08 17:38:00,592: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 17:38:00,596: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 17:38:01,612: INFO/MainProcess] mingle: all alone
+[2026-01-08 17:38:01,636: INFO/MainProcess] celery@3a23f759f6c3 ready.
+[2026-01-08 17:49:54,319: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 17:49:54,332: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 17:49:55,362: INFO/MainProcess] mingle: all alone
+[2026-01-08 17:49:55,376: INFO/MainProcess] celery@fa8ca1fc56af ready.
+[2026-01-08 17:52:23,418: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 17:52:23,422: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 17:52:24,438: INFO/MainProcess] mingle: all alone
+[2026-01-08 17:52:24,479: INFO/MainProcess] celery@8e9552251120 ready.
+[2026-01-08 18:00:52,360: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 18:00:52,367: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 18:00:53,381: INFO/MainProcess] mingle: all alone
+[2026-01-08 18:00:53,395: INFO/MainProcess] celery@09644ff45b13 ready.
+[2026-01-08 18:22:24,297: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-01-08 18:22:24,320: INFO/MainProcess] mingle: searching for neighbors
+[2026-01-08 18:22:25,334: INFO/MainProcess] mingle: all alone
+[2026-01-08 18:22:25,410: INFO/MainProcess] celery@d66efc1f7caa ready.
+[2026-01-08 18:24:02,844: INFO/MainProcess] Task tasks.task_add_user[a7edcad6-4646-48a1-8ca2-dc57724d5d1d] received
+[2026-01-08 18:24:13,456: INFO/ForkPoolWorker-7] Task tasks.task_add_user[a7edcad6-4646-48a1-8ca2-dc57724d5d1d] succeeded in 10.566068719000214s: {'success': [{'first_name': 'Rigtje', 'last_name': 'Brouwers', 'mail': 'rigtje.brouwers@example.com', 'age': 60}, {'first_name': 'Theodore', 'last_name': 'Evans', 'mail': 'theodore.evans@example.com', 'age': 53}, {'first_name': 'Anton', 'last_name': 'Poulsen', 'mail': 'anton.poulsen@example.com', 'age': 70}, {'first_name': 'Vlatko', 'last_name': 'Vilotić', 'mail': 'vlatko.vilotic@example.com', 'age': 72}, {'first_name': 'Antonio', 'last_name': 'Álvarez', 'mail': 'antonio.alvarez@example.com', 'age': 37}, {'first_name': 'Jonatã', 'last_name': 'da Mata', 'mail': 'jonata.damata@example.com', 'age': 27}, {'first_name': 'Amelia', 'last_name': 'Fletcher', 'mail': 'amelia.fletcher@example.com', 'age': 39}, {'first_name': 'Evie', 'last_name': 'Lewis', 'mail': 'evie.lewis@example.com', 'age': 54}, {'first_name': 'Christy', 'last_name': 'Cooper', 'mail': 'christy.cooper@example.com', 'age': 67}, {'first_name': 'Aletéia', 'last_name': 'da Cruz', 'mail': 'aleteia.dacruz@example.com', 'age': 72}]}

@@ -8,7 +8,7 @@ from schemas import UserIn, WeatherIn
 app = Celery(
     "tasks",
     broker="redis://localhost:6379/0",
-    backend="sqla+postgresql://user:password@database:5432/alpha",
+    backend="sqla+postgresql://postgres:secret@database:5432/postgres",
 )
 
 
